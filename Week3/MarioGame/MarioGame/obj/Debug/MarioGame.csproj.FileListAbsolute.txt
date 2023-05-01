@@ -1,0 +1,10 @@
+D:\C#Game\MarioGame\MarioGame\bin\Debug\MarioGame.exe.config
+D:\C#Game\MarioGame\MarioGame\bin\Debug\MarioGame.exe
+D:\C#Game\MarioGame\MarioGame\bin\Debug\MarioGame.pdb
+D:\C#Game\MarioGame\MarioGame\obj\Debug\MarioGame.csproj.AssemblyReference.cache
+D:\C#Game\MarioGame\MarioGame\obj\Debug\MarioGame.csproj.CoreCompileInputs.cache
+D:\C#Game\MarioGame\MarioGame\obj\Debug\MarioGame.exe
+D:\C#Game\MarioGame\MarioGame\obj\Debug\MarioGame.pdb
+D:\C#Game\MarioGame\MarioGame\bin\Debug\EZInput.dll
+D:\C#Game\MarioGame\MarioGame\bin\Debug\EZInput.xml
+D:\C#Game\MarioGame\MarioGame\obj\Debug\MarioGame.csproj.CopyComplete

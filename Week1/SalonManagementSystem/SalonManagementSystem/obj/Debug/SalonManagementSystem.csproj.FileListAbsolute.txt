@@ -1,0 +1,7 @@
+D:\Bussiness Application\SalonManagementSystem\SalonManagementSystem\obj\Debug\SalonManagementSystem.csproj.AssemblyReference.cache
+D:\Bussiness Application\SalonManagementSystem\SalonManagementSystem\obj\Debug\SalonManagementSystem.csproj.CoreCompileInputs.cache
+D:\Bussiness Application\SalonManagementSystem\SalonManagementSystem\bin\Debug\SalonManagementSystem.exe.config
+D:\Bussiness Application\SalonManagementSystem\SalonManagementSystem\bin\Debug\SalonManagementSystem.exe
+D:\Bussiness Application\SalonManagementSystem\SalonManagementSystem\bin\Debug\SalonManagementSystem.pdb
+D:\Bussiness Application\SalonManagementSystem\SalonManagementSystem\obj\Debug\SalonManagementSystem.exe
+D:\Bussiness Application\SalonManagementSystem\SalonManagementSystem\obj\Debug\SalonManagementSystem.pdb

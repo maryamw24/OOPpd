@@ -1,0 +1,7 @@
+D:\Bussiness Application\SMSCrud\SMSCrud\bin\Debug\SMSCrud.exe.config
+D:\Bussiness Application\SMSCrud\SMSCrud\bin\Debug\SMSCrud.exe
+D:\Bussiness Application\SMSCrud\SMSCrud\bin\Debug\SMSCrud.pdb
+D:\Bussiness Application\SMSCrud\SMSCrud\obj\Debug\SMSCrud.csproj.AssemblyReference.cache
+D:\Bussiness Application\SMSCrud\SMSCrud\obj\Debug\SMSCrud.csproj.CoreCompileInputs.cache
+D:\Bussiness Application\SMSCrud\SMSCrud\obj\Debug\SMSCrud.exe
+D:\Bussiness Application\SMSCrud\SMSCrud\obj\Debug\SMSCrud.pdb

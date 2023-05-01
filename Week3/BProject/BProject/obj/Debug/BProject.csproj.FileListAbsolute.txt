@@ -1,0 +1,7 @@
+D:\OOPpd\Week3\BProject\BProject\bin\Debug\BProject.exe.config
+D:\OOPpd\Week3\BProject\BProject\bin\Debug\BProject.exe
+D:\OOPpd\Week3\BProject\BProject\bin\Debug\BProject.pdb
+D:\OOPpd\Week3\BProject\BProject\obj\Debug\BProject.csproj.AssemblyReference.cache
+D:\OOPpd\Week3\BProject\BProject\obj\Debug\BProject.csproj.CoreCompileInputs.cache
+D:\OOPpd\Week3\BProject\BProject\obj\Debug\BProject.exe
+D:\OOPpd\Week3\BProject\BProject\obj\Debug\BProject.pdb
